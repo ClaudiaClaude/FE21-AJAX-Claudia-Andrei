@@ -6,23 +6,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+
 <body >
+
 <div id="content" >
 <h1>The XMLHttpRequest Object</h1 >
 <button type="button"  onclick="loadDoc()">Change Content</button >
 </div>
+
 <script>
+
 function loadDoc() {
-let xhttp = new XMLHttpRequest();
-xhttp.onload = function() {
-    if (this.status == 200 ) {
-        document.getElementById("content").innerHTML =
-        this .responseText;
-    }
+        let xhttp = new XMLHttpRequest();
+            xhttp.onload = function() {
+                if (this.status == 200 ) {
+                    document.getElementById("content").innerHTML =
+                    this .responseText;
+                }
+        };
+    xhttp.open("GET", "your_doc.txt" , true); //(method, URL, async)
+    xhttp.send();
 };
-xhttp.open("GET", "your_doc.txt" , true); //(method, URL, async)
-xhttp.send();
-}
+
 </script>
 </body>
 </html>
