@@ -45,7 +45,7 @@
             for (let i = 0; i < x.length; i++) {
 
                 displayDiv.innerHTML += "<div class='col-4 p-2'>" +
-                "<div class='card  h-100'><img src='' alt='' class='card-image'><div class='card-body'><div class='card-title'>"+ x[i].getElementsByTagName("title")[0].childNodes[0].nodeValue +"</div><div class='card-text'><p>" + x[i].getElementsByTagName("artist")[0].childNodes[0].nodeValue + "<br>" + x[i].getElementsByTagName("country")[0].childNodes[0].nodeValue + "<br>" + x[i].getElementsByTagName("genre")[0].childNodes[0].nodeValue + "<br>" + x[i].getElementsByTagName("year")[0].childNodes[0].nodeValue + "</p></div></div></div></div>";
+                "<div class='card  h-100'><img src='img/"+x[i].getElementsByTagName("picture")[0].childNodes[0].nodeValue+"' alt='' class='card-image'><div class='card-body'><div class='card-title'>"+ x[i].getElementsByTagName("title")[0].childNodes[0].nodeValue +"</div><div class='card-text'><p>" + x[i].getElementsByTagName("artist")[0].childNodes[0].nodeValue + "<br>" + x[i].getElementsByTagName("country")[0].childNodes[0].nodeValue + "<br>" + x[i].getElementsByTagName("genre")[0].childNodes[0].nodeValue + "<br>" + x[i].getElementsByTagName("year")[0].childNodes[0].nodeValue + "</p></div></div></div></div>";
 
             }
         }

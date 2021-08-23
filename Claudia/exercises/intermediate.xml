@@ -6,6 +6,7 @@
         <country>Ireland</country>
         <genre>Pop</genre>
         <year>2020</year>
+        <picture>song.png</picture>
         <!-- <picture>"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.welle1.at%2Fdiscography%2Fmichael-patrick-kelly-beautiful-madness%2F&psig=AOvVaw2rtituNykP7OB9-P3yFvt2&ust=1629806244016000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjLmMWLx_ICFQAAAAAdAAAAABAO"</picture> -->
     </song>
     <song id="02">
@@ -14,6 +15,7 @@
         <country>Romania</country>
         <genre>Dance/Electronic</genre>
         <year>2019</year>
+        <picture>song.png</picture>
         <!-- <picture>"https://cdns-images.dzcdn.net/images/cover/b913a45e9f7093c791cae1aa69e7da29/350x350.jpg"</picture> -->
     </song>
     <song id="03">
@@ -22,6 +24,7 @@
         <country>France</country>
         <genre>Pop-Rock</genre>
         <year>2020</year>
+        <picture>song.png</picture>
         <!-- <picture>"https://m.media-amazon.com/images/I/81DHTqCtOZL._SS500_.jpg"</picture> -->
     </song>
     <song id="04">
@@ -30,6 +33,7 @@
         <country>Sweden</country>
         <genre>Pop</genre>
         <year>2020</year>
+        <picture>song.png</picture>
         <!-- <picture>"https://m.media-amazon.com/images/I/71oUjAdUIvL._SS500_.jpg"</picture> -->
     </song>
     <song id="05">
@@ -38,6 +42,7 @@
         <country>Netherlands</country>
         <genre>Dance/Electronic</genre>
         <year>2020</year>
+        <picture>song.png</picture>
         <!-- <picture>"https://i1.sndcdn.com/artworks-1BUgkdd5evu1IoKy-4kuaTQ-t500x500.jpg"</picture> -->
     </song>
     <song id="06">
@@ -46,6 +51,7 @@
         <country>Australia</country>
         <genre>Rock</genre>
         <year>2016</year>
+        <picture>song.png</picture>
         <!-- <picture>"https://cdns-images.dzcdn.net/images/cover/305b06b02f21849dd2bf45614e0fafef/350x350.jpg"</picture> -->
     </song>
     <song id="07">
@@ -54,6 +60,7 @@
         <country>Germany</country>
         <genre>Electro Swing</genre>
         <year>2018</year>
+        <picture>song.png</picture>
         <!-- <picture>"https://m.media-amazon.com/images/I/71vukeNhQsL._SS500_.jpg"</picture> -->
     </song>
     <song id="08">
@@ -62,6 +69,7 @@
         <country>U.S.A.</country>
         <genre>Pop</genre>
         <year>2020</year>
+        <picture>song.png</picture>
         <!-- <picture>"https://m.media-amazon.com/images/I/71qyVRn-t8L._SS500_.jpg"</picture> -->
     </song>
     <song id="09">
@@ -70,6 +78,7 @@
         <country>Norway</country>
         <genre>Pop</genre>
         <year>2020</year>
+        <picture>song.png</picture>
         <!-- <picture>"https://linkstorage.linkfire.com/medialinks/images/17e0137f-9a51-4c5f-a887-5a1953bbded5/artwork-440x440.jpg"</picture> -->
     </song>
     <song id="10">
@@ -78,6 +87,7 @@
         <country>Belarus</country>
         <genre>Pop</genre>
         <year>2020</year>
+        <picture>song.png</picture>
         <!-- <picture>"https://i1.sndcdn.com/artworks-QwTvY2JaNM9LvhRV-4yEzkw-t500x500.jpg"</picture> -->
     </song>
     <song id="11">
@@ -86,6 +96,7 @@
         <country>Brasil</country>
         <genre>Dance/Electronic</genre>
         <year>2021</year>
+        <picture>song.png</picture>
         <!-- <picture>"https://m.media-amazon.com/images/I/71DIbG7X+QL._SS500_.jpg"</picture> -->
     </song>
     <song id="12">
@@ -94,6 +105,7 @@
         <country>Turkey</country>
         <genre>Chill trap</genre>
         <year>2018</year>
+        <picture>song.png</picture>
         <!-- <picture>"https://m.media-amazon.com/images/I/91ry6oh8KyL._SS500_.jpg"</picture> -->
     </song>
     <song id="13">
@@ -102,6 +114,7 @@
         <country>Lithuania/Italy</country>
         <genre>Dance/Electronic</genre>
         <year>2018</year>
+        <picture>song.png</picture>
         <!-- <picture>"https://m.media-amazon.com/images/I/61AX9G7nTUL._SS500_.jpg"</picture> -->
     </song>
     <song id="14">
@@ -110,6 +123,7 @@
         <country>Germany/Netherlands</country>
         <genre>Rock</genre>
         <year>2020</year>
+        <picture>song.png</picture>
         <!-- <picture>"https://geo-media.beatport.com/image_size/1400x1400/54f31a39-2f18-4e15-8156-2a023f251f24.jpg"</picture> -->
     </song>
     <song id="15">
@@ -118,6 +132,7 @@
         <country>U.S.A.</country>
         <genre>Pop</genre>
         <year>2019</year>
+        <picture>song.png</picture>
         <!-- <picture>"https://i1.sndcdn.com/artworks-GMaoqSPIEwz1KhHz-cyckuw-t500x500.jpg"</picture> -->
     </song>
 </discography>
