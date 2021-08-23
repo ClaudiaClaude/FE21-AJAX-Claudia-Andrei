@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+
+
+
+
+
+    
+
+<!-- SECOND EXAMPLE -->
+ 
+
+<!--<button id="button">Show friends </button>
+
+<h1>Friends</h1>
+
+<div id="friends">
+
+    
+
+</div>
+
+<script>
+    document.getElementById("button").addEventListener ("click", getFriends, false)
+
+    function getFriends() {
+
+        const request = new  XMLHttpRequest(); //create a request
+        request.open("GET", "friends.json" , true); //get method, file, async
+        request.onload = function () { //when the request is loaded
+            if (this.status == 200) { //check that the status is OK
+                let friends= JSON .parse(this.responseText); //parse data
+                console.log(friends) //console to see object
+                let output = '' ; //declare a container variable
+                for (let i  in friends) { //loop through array
+                    output += '<b>name: </b>' + friends[i].name + "<br>" + '<b>age: </b>' + friends[i].age + '<hr>';
+                }
+                document.getElementById("friends").innerHTML = output;
+            //output results in div#friends
+            }
+        }
+        request.send(); //send request
+    }
+
+</script>
+ -->
+
+    <!-- FIRST EXAMPLE!!! -->
+
+        <!-- <h2>Store and retrieve data from local storage. </h2>
+        <p  id = "info"></p>
+
+        <script >
+            //Storing data:
+            let  myObj = {
+                "name": "Nikolaus",
+                "age" : 31 ,
+                "city": "Vienna"
+            };
+            let myJSON = JSON.stringify(myObj);
+            localStorage.setItem( "testJSON", myJSON);
+            //Retrieving data:
+            let  text = localStorage.getItem("testJSON");
+            let obj = JSON.parse(text);
+            document.getElementById( "info").innerHTML = obj.age;
+        </script> -->
+    </body>
+</html>
