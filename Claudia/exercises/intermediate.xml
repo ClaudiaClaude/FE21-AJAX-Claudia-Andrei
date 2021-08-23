@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discography>
+    <song id="01">
+        <title>Beautiful Madness</title>
+        <artist>Michael Patrick Kelly</artist>
+        <country>Ireland</country>
+        <genre>Pop</genre>
+        <year>2020</year>
+        <picture>https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.welle1.at%2Fdiscography%2Fmichael-patrick-kelly-beautiful-madness%2F&psig=AOvVaw2rtituNykP7OB9-P3yFvt2&ust=1629806244016000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjLmMWLx_ICFQAAAAAdAAAAABAO</picture>
+    </song>
+    <song id="02">
+        <title>Atikapatum</title>
+        <artist>Atika Patum</artist>
+        <country>Romania</country>
+        <genre>Dance/Electronic</genre>
+        <year>2019</year>
+        <picture>https://cdns-images.dzcdn.net/images/cover/b913a45e9f7093c791cae1aa69e7da29/350x350.jpg</picture>
+    </song>
+    <song id="03">
+        <title>The Whole 9</title>
+        <artist>Marina Kaye</artist>
+        <country>France</country>
+        <genre>Pop-Rock</genre>
+        <year>2020</year>
+        <picture>https://m.media-amazon.com/images/I/81DHTqCtOZL._SS500_.jpg</picture>
+    </song>
+    <song id="04">
+        <title>Sad child</title>
+        <artist>Sandro Cavazza, Brother Leo</artist>
+        <country>Sweden</country>
+        <genre>Pop</genre>
+        <year>2020</year>
+        <picture>https://m.media-amazon.com/images/I/71oUjAdUIvL._SS500_.jpg</picture>
+    </song>
+    <song id="05">
+        <title>911</title>
+        <artist>R3HAB, Timmy Trumpet</artist>
+        <country>Netherlands</country>
+        <genre>Dance/Electronic</genre>
+        <year>2020</year>
+        <picture>https://i1.sndcdn.com/artworks-1BUgkdd5evu1IoKy-4kuaTQ-t500x500.jpg</picture>
+    </song>
+    <song id="06">
+        <title>Unstoppable</title>
+        <artist>Sia</artist>
+        <country>Australia</country>
+        <genre>Rock</genre>
+        <year>2016</year>
+        <picture>https://cdns-images.dzcdn.net/images/cover/305b06b02f21849dd2bf45614e0fafef/350x350.jpg</picture>
+    </song>
+    <song id="07">
+        <title>Hit the Road Jack</title>
+        <artist>Maskarade, Wolfgang Lohr</artist>
+        <country>Germany</country>
+        <genre>Electro Swing</genre>
+        <year>2018</year>
+        <picture>https://m.media-amazon.com/images/I/71vukeNhQsL._SS500_.jpg</picture>
+    </song>
+    <song id="08">
+        <title>Bang! - Remix</title>
+        <artist>AJR, Younotus</artist>
+        <country>U.S.A.</country>
+        <genre>Pop</genre>
+        <year>2020</year>
+        <picture>https://m.media-amazon.com/images/I/71qyVRn-t8L._SS500_.jpg</picture>
+    </song>
+    <song id="09">
+        <title>Dear God</title>
+        <artist>Ruben</artist>
+        <country>Norway</country>
+        <genre>Pop</genre>
+        <year>2020</year>
+        <picture>https://linkstorage.linkfire.com/medialinks/images/17e0137f-9a51-4c5f-a887-5a1953bbded5/artwork-440x440.jpg</picture>
+    </song>
+    <song id="10">
+        <title>August</title>
+        <artist>Intelligency</artist>
+        <country>Belarus</country>
+        <genre>Pop</genre>
+        <year>2020</year>
+        <picture>https://i1.sndcdn.com/artworks-QwTvY2JaNM9LvhRV-4yEzkw-t500x500.jpg</picture>
+    </song>
+    <song id="11">
+        <title>Love Again (feat. Alida)</title>
+        <artist>Alok, Alida</artist>
+        <country>Brasil</country>
+        <genre>Dance/Electronic</genre>
+        <year>2021</year>
+        <picture>https://m.media-amazon.com/images/I/71DIbG7X+QL._SS500_.jpg</picture>
+    </song>
+    <song id="12">
+        <title>Hislerim</title>
+        <artist>Serhat Durmus, Zerrin</artist>
+        <country>Turkey</country>
+        <genre>Chill trap</genre>
+        <year>2018</year>
+        <picture>https://m.media-amazon.com/images/I/91ry6oh8KyL._SS500_.jpg</picture>
+    </song>
+    <song id="13">
+        <title>In My Mind</title>
+        <artist>Dynoro, Gigi D'Agostino</artist>
+        <country>Lithuania/Italy</country>
+        <genre>Dance/Electronic</genre>
+        <year>2018</year>
+        <picture>https://m.media-amazon.com/images/I/61AX9G7nTUL._SS500_.jpg</picture>
+    </song>
+    <song id="14">
+        <title>Lovefool - Nicky Romero Remix</title>
+        <artist>twocolors, Nicky Romero</artist>
+        <country>Germany/Netherlands</country>
+        <genre>Rock</genre>
+        <year>2020</year>
+        <picture>https://geo-media.beatport.com/image_size/1400x1400/54f31a39-2f18-4e15-8156-2a023f251f24.jpg</picture>
+    </song>
+    <song id="15">
+        <title>My Oh My(feat. DaBaby)</title>
+        <artist>Camilla Cabello, DaBaby</artist>
+        <country>U.S.A.</country>
+        <genre>Pop</genre>
+        <year>2019</year>
+        <picture>https://i1.sndcdn.com/artworks-GMaoqSPIEwz1KhHz-cyckuw-t500x500.jpg</picture>
+    </song>
+    <!-- <song id="16">
+        <title>Alors on danse</title>
+        <artist>Stromae</artist>
+        <country>Austria</country>
+        <genre>Rock</genre>
+        <year> 1979-08-01</year>
+        <picture></picture>
+    </song>
+    <song id="17">
+        <title>Titanium (feat. Sia)</title>
+        <artist>David Guetta, Sia</artist>
+        <country>Austria</country>
+        <genre>Rock</genre>
+        <year> 1979-08-01</year>
+        <picture></picture>
+    </song>
+    <song id="18">
+        <title>Demons</title>
+        <artist>Imagine Dragons</artist>
+        <country>Austria</country>
+        <genre>Rock</genre>
+        <year> 1979-08-01</year>
+        <picture></picture>
+    </song>
+    <song id="19">
+        <title>Pompei</title>
+        <artist>Bastille</artist>
+        <country>Austria</country>
+        <genre>Rock</genre>
+        <year> 1979-08-01</year>
+        <picture></picture>
+    </song>
+    <song id="20">
+        <title>Believer</title>
+        <artist>Imagine Dragons</artist>
+        <country>Austria</country>
+        <genre>Rock</genre>
+        <year> 1979-08-01</year>
+        <picture></picture>
+    </song> -->
+
+</discography>
