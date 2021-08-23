@@ -11,15 +11,48 @@
 <body>
 
     
-    <div class="container">
+    <div class="container pt-5">
 
-        <div class="row">
+        <h1 class="text-center">To see my current favorite songs</h1>
+        <h1 class="text-center">Press <button class="btn btn-dark" onclick="loadData()"> HERE! </button></h1>
+
+        <div class="row" id="content">
+
             
         </div>
 
     </div>
 
+    <script>
 
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+        function loadData(){
+            var xhttp = new XMLHttpRequest();
+            xhttp.onload = function(){
+                if (this.status == 200) {
+                    myCardsPrinter(this);
+                }
+            };
+            xhttp.open("GET", "intermediate.xml", true);
+            xhttp.send();
+        }
+
+        function myCardsPrinter(xml) {
+            let xmlDoc = xml.responseXML;
+            let x = xmlDoc.getElementsByTagName("song");
+
+            let displayDiv = document.getElementById("content");
+
+            for (let i = 0; i < x.length; i++) {
+
+                displayDiv.innerHTML += "<div class='col-4 p-2'>" +
+                "<div class='card  h-100'><img src='' alt='' class='card-image'><div class='card-body'><div class='card-title'>"+ x[i].getElementsByTagName("title")[0].childNodes[0].nodeValue +"</div><div class='card-text'><p>" + x[i].getElementsByTagName("artist")[0].childNodes[0].nodeValue + "<br>" + x[i].getElementsByTagName("country")[0].childNodes[0].nodeValue + "<br>" + x[i].getElementsByTagName("genre")[0].childNodes[0].nodeValue + "<br>" + x[i].getElementsByTagName("year")[0].childNodes[0].nodeValue + "</p></div></div></div></div>";
+
+            }
+        }
+    </script>
+
+
+<!-- " + x[i].getElementsByTagName("picture")[0].childNodes[0].nodeValue +" -->
+    
 </body>
 </html>
